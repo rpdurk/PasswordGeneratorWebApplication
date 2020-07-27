@@ -12,7 +12,7 @@ It contains all numbers (0123456789).
 It also contains an assortment of commonly used special characters (!@#$%^&*()+=/:*?.<>|).
 
 ## To Use:
-Navigate to the landing page (Link to website: https://rpdurk.github.io/Code-Refactor/) and click generate as shown below.
+Navigate to the landing page (Link to website: https://rpdurk.github.io/PasswordGeneratorWebApplication/) and click generate as shown below.
 ![Website Screen Shots](./images/passwordGeneratorLandingSS.png)
 
 Follow the user prompts if you want to include certain characters as pictured below.
@@ -23,7 +23,7 @@ Copy the password and utilize it!
 ![Website Screen Shots](./images/passwordGeneratorExample.png)
 
 
-Link to website:
+Link to website: https://rpdurk.github.io/PasswordGeneratorWebApplication/
 
 
 Follow the prompts and state how long of a password you want, what it should contain.  Once complete, copy the password and utilize it!
